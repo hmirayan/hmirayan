@@ -4,7 +4,7 @@
 
 - 🔭 **Actuellement étudiant, je me forme dans des domaines tels que :**
   
-![Logo Hmtl](image-3.png)![Logo CSS](image-2.png)![Logo JS](https://github.com/hussainweb/hussainweb/blob/73f2376ce64259a6b60eb044a919a76a73fcd3b0/icons/javascript.png)
+![Html](image-5.png) ![Css](image-6.png) ![Js](image-4.png)
   
 - 🌱 **J'apprends constamment et je suis impatient de faire du développement web mon métier.**
 - 🤝 **Je suis ouvert à la collaboration sur des projets web et à l'apprentissage avec d'autres passionnés.**
