@@ -4,7 +4,7 @@ Salut ! 👋 Je suis Rayan, un étudiant chez O'clock en développement web et a
 
 - 🔭 Actuellement étudiant, je me forme dans des domaines tels que :
 - 
-- ![Logo Html](https://icones8.fr/icon/20909/html-5) ![Logo Js](https://icones8.fr/icon/108784/javascript) ![Logo CSS](https://icones8.fr/icon/21278/css3), et bien d'autres.
+- ![Logo Hmtl](\presentation_github\iconehtml.png) !![Logo CSS](\presentation_github\iconecss.png) ![Logo JS](\presentation_github\iconejs.png) et bien d'autres.
 - 
 - 🌱 J'apprends constamment et je suis impatient de faire du développement web mon métier.
 - 🤝 Je suis ouvert à la collaboration sur des projets web et à l'apprentissage avec d'autres passionnés.
