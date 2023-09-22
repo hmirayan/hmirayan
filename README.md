@@ -1,14 +1,21 @@
-# Hmirayan
+# Bonjour ! Je suis Rayan
 
-**Salut ! 👋 Je suis Rayan, un étudiant chez O'clock en développement web et accesibilité.**
+## À propos de moi
+Je suis actuellement étudiant en développement web chez [O'Clock](https://www.oclock.io/), une école de formation en ligne spécialisée dans le développement web. Je suis passionné par le monde de la programmation et je suis ravi d'apprendre différentes technologies pour devenir un développeur web accompli.
 
-- 🔭 **Actuellement étudiant, je me forme dans des domaines tels que :**
-  
-![Html](image-5.png) ![Css](image-6.png) ![Js](image-4.png)
-  
-- 🌱 **J'apprends constamment et je suis impatient de faire du développement web mon métier.**
-- 🤝 **Je suis ouvert à la collaboration sur des projets web et à l'apprentissage avec d'autres passionnés.**
-- 💬 **N'hésitez pas à me poser des questions sur la programmation web, les technologies ou les projets open source.**
-- 📫 **Vous pouvez me contacter par e-mail : rayan.hammaoui@oclock.school**
+## Technologies que j'apprends
+Actuellement, je me plonge dans l'apprentissage de diverses technologies essentielles au développement web, notamment :
 
-**Merci d'être passé ! N'hésitez pas à explorer mes dépôts et à me contacter si vous avez des questions ou si vous souhaitez simplement discuter. 😊**
+- ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.png) HTML
+- ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.png) CSS
+- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.png) JavaScript
+
+Ces outils sont fondamentaux pour la création de sites web dynamiques et interactifs, et j'ai hâte de les maîtriser pour les appliquer dans mon futur métier de développeur web.
+
+## Objectifs futurs
+Mon objectif principal est de devenir un développeur web compétent et créatif. Je suis impatient de mettre en pratique les compétences que j'acquiers actuellement chez O'Clock pour créer des sites web innovants et résoudre des problèmes passionnants.
+
+N'hésitez pas à me suivre et à me contacter si vous souhaitez discuter de projets, de technologies web ou simplement pour échanger des idées. Je suis toujours ouvert à de nouvelles opportunités de collaboration !
+
+Merci d'avoir visité mon profil GitHub !
+
