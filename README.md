@@ -1,3 +1,5 @@
+![Photo Dw](https://www.digitalschool.paris/sites/default/files/Metier%20de%CC%81veloppeur%20web%20et%20mobile_0.jpg)
+
 # __Bonjour ! Je suis Rayan__
 
 ## __À propos de moi__
