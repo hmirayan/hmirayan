@@ -18,8 +18,7 @@ Mon objectif principal est de devenir un développeur web compétent et créatif
 N'hésitez pas à me suivre et à me contacter si vous souhaitez discuter de projets, de technologies web ou simplement pour échanger des idées. Je suis toujours ouvert à de nouvelles opportunités de collaboration !
 
 ## __Pour me joindre__
-
-[Adresse email](rayan.hammaoui@oclock.school)
+rayan.hammaoui@oclock.school
 
 
 __Merci d'avoir visité mon profil GitHub !__
