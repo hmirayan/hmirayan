@@ -20,5 +20,6 @@ N'hésitez pas à me suivre et à me contacter si vous souhaitez discuter de pro
 ## __Pour me joindre__
 rayan.hammaoui@oclock.school
 
+---
 
 __Merci d'avoir visité mon profil GitHub !__
